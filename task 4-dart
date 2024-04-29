@@ -1,0 +1,34 @@
+class product{
+    string names;
+    doubel price;
+    string barcode;
+    const product ( name, price, barcode);
+}
+void main(){
+    
+    creat a list of 7 products <product> products= [
+var product 1 .name = 'led Bencil';
+    product 1 . price = 9.99;
+    product 1 . barcode = 12345678910;
+    var product 2 . name = 'eraser';
+    product 2 price = 3.50;
+    product 2 . barcode = 23456789101;
+    var product 3 . name = 'ruler';
+    product 3 . price = 4.30;
+    product 3 . barcode = 34567891012;
+    var product 4 .name = 'sharpaner';
+    product 4 . price = 2.50;
+    product 4 . barcode = 45678910123;
+    var product 5 .name = 'drowing Book';
+    product 5 . price = 25.90;
+    product 5 . barcode = 56789101234;
+    var product 6 .name = 'wooden Colours';
+    product 6 . price = 19.80;
+    product 5 . barcode = 67891012345;
+    var product 7 .name = 'crayons';
+    product 5 . price = 21.90;
+    product 5 . barcode = 78910123456;
+    ]
+    calculate the total prices of products;
+    print   the total price
+}
